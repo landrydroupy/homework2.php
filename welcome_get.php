@@ -9,7 +9,8 @@
   <body>
     <h1>Thank you for the information!</h1>
     
- Welcome <?php echo $_GET["fname"] $_GET["lname"]; ?><br>
+ Welcome <?php echo $_GET["fname"]; ?> <?php echo $_GET["lname"]; ?><br>
+
 
    
     
