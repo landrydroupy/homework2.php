@@ -8,13 +8,7 @@
 	<?php include("header.php");?>
 	</head>	
 
-	<div>
-<?php function writeMsg() {
-  echo "Hello world!";
-}
-
-writeMsg();
-	</div>
+	
 	
 	
 <body>
