@@ -39,4 +39,9 @@ E-mail: <input type="text" name="email"><br>
 
 
 </body>
+
+<footer>
+<?php include("footer.php");?>
+</footer>
+
 </html>
