@@ -8,8 +8,18 @@
 	<?php include("header.php");?>
 	</head>	
 
+	<div>
+<?php function writeMsg() {
+  echo "Hello world!";
+}
+
+writeMsg();
+	</div>
+	
+	
 <body>
 
+	
 <div class="container" id="main-content">
 	    
 	<h2>Landry Droupy - Homework 2</h2>
