@@ -1,7 +1,8 @@
+</br>
 
 <?php
-function writeMsg() {
-  echo "Hello world!";
+function writeFooter() {
+  echo "Hello, this footer was made with a PHP Function!";
 }
 
-writeMsg();
+writeFooter();
