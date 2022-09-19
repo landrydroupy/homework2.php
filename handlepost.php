@@ -21,4 +21,8 @@ Your email address is: <?php echo $_POST["email"]; ?>
 
 
 </body>
+	
+<footer>
+<?php include("footer.php");?>
+</footer>
 </html>
