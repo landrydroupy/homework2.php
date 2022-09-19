@@ -16,7 +16,8 @@
 	
 <div class="container" id="main-content">
 	    
-	<h2>Landry Droupy - Homework 2</h2>
+	<h2>Please fill out the forms using either the POST or GET method</h2>
+	</br>
 	<p>Filling out information here will use the POST method</p>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
