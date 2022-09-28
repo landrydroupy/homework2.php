@@ -35,7 +35,7 @@ E-mail: <input type="text" name="email"><br>
 
 </body>
 
-
+<?php include("bootstrap.php");?>
 <?php include("footer.php");?>
 
 
