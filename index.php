@@ -1,14 +1,9 @@
 
 
     
-    <!DOCTYPE html>
-<html>
 
-	<head>
+	
 	<?php include("header.php");?>
-	</head>	
-
-	</br>
 	
 	
 <body>
@@ -40,8 +35,8 @@ E-mail: <input type="text" name="email"><br>
 
 </body>
 
-<footer>
-<?php include("footer.php");?>
-</footer>
 
-</html>
+<?php include("footer.php");?>
+
+
+
