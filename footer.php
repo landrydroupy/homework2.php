@@ -6,6 +6,3 @@ function writeFooter() {
 }
 
 writeFooter();
-
-
-</html>
