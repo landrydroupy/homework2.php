@@ -1,9 +1,8 @@
-<!DOCTYPE html>
-<html>
 
-	<head>
+
+	
 	<?php include("header.php");?>
-	</head>	
+	
 	
 <body>
 
@@ -22,7 +21,7 @@ Your email address is: <?php echo $_POST["email"]; ?>
 
 </body>
 	
-<footer>
+
 <?php include("footer.php");?>
-</footer>
-</html>
+<?php include("bootstrap.php");?>
+
